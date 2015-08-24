@@ -2,7 +2,7 @@ Este es un archivo de prueba
 Para ver el tema de editar
 con varias ramas
 
-(esto es algo escrito en el escritorio)
+(esto si es es algo escrito en el escritorio)
 
 el mismo archivo 
 en distintas lineas
