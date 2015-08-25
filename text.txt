@@ -4,5 +4,5 @@ con varias ramas
 
 (algo escrito en el escritorio) pruebas
 
-el mismo archivo 
-en distintas lineas
+el mismo archivo .
+en distintas lineas.
